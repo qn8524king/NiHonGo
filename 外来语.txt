@@ -4,23 +4,23 @@
 ノート				初级上2		笔记本，本子					Note
 カメラ				初级上2		照相机							Camera
 テレビ				初级上2		电视机							Television
-パソコン			初级上2		个人电脑						Personal computer
+パソコン			初级上2		个人电脑						Personal Computer
 ラジオ				初级上2		收音机							Radio
 シルク				初级上2		丝绸							Silk
 ハンカチ			初级上2		手绢							Handkerchief
 デパート			初级上3		百货商店						Department
 マンション			初级上3		高级公寓						Mansion
 ホテル				初级上3		宾馆							Hotel
-コンビニ			初级上3		便利店							Convenience store
+コンビニ			初级上3		便利店							Convenience Store
 レストラン			初级上3		餐馆							Restaurant
 ビル				初级上3		大楼，大厦						Build
 エスカレーター		初级上3		自动扶梯						Escalator
 コート				初级上3		风衣							Coat
-デジカメ			初级上3		数码相机						Digital camera
+デジカメ			初级上3		数码相机						Digital Camera
 カベ				初级上4		墙壁							Cover
 スイッチ			初级上4		开关							Switch
 ビデオ				初级上4		录像机							Video
-サッカーボール		初级上4		足球							Soccer ball
+サッカーボール		初级上4		足球							Soccer Ball
 ビール				初级上4		啤酒							Beer
 ウイスキー			初级上4		威士忌							Whisky
 コンサート			初级上6		音乐会							Concert
@@ -49,14 +49,14 @@
 チケット			初级上8		票								Ticket
 パンフレット		初级上8		小册子							Pamphlet
 スケジュール		初级上8		日程							Schedule
-ボールペン			初级上8		圆珠笔							Ballpoint pen
+ボールペン			初级上8		圆珠笔							Ballpoint Pen
 ファックス			初级上8		传真							Fax
 メール				初级上8		邮件							Mail
 チョコレート		初级上8		巧克力							Chocolate
 アイスクリーム		初级上8		冰淇淋							Icecream
 スプーン			初级上8		勺子							Spoon
 スープ				初级上9		汤								Soup
-ペキンダック		初级上9		北京烤鸭						Peking duck
+ペキンダック		初级上9		北京烤鸭						Peking Duck
 ニュース			初级上9		新闻							News
 グラス				初级上9		玻璃杯							Glass
 シーズン			初级上10	季节							Season
@@ -92,10 +92,10 @@
 デザイン			初级上16	设计（图），（制作）图案		Designer
 アイディーカード	初级上16	身份证件						ID Card
 サービス			初级上16	服务							Service
-クリスマスツリー	初级上16	圣诞树							Christmas tree
+クリスマスツリー	初级上16	圣诞树							Christmas Tree
 ユニーク			初级上16	独特							Unique
 セーター			初级上17	毛衣							Sweater
-ノートパソコン		初级上17	笔记本电脑						Note personal computer
+ノートパソコン		初级上17	笔记本电脑						Note Personal Computer
 バイク				初级上17	摩托车							Bike
 ドラマ				初级上17	连续剧							Drama
 ベートーベン		初级上17	贝多芬							-
@@ -105,7 +105,7 @@
 スイス				初级上17	瑞士							Switzerland
 パイロット			初级上18	飞行员							Pilot
 デザイナー			初级上18	设计者，设计家					Designer
-タイムサービス		初级上18	时段廉价销售					Time service
+タイムサービス		初级上18	时段廉价销售					Time Service
 シャツ				初级上18	衬衫							Shirt
 スカート			初级上18	裙子							Skirt
 シンプル			初级上18	单纯，纯洁						Simple
@@ -114,18 +114,18 @@
 レポート			初级上19	报告							Report
 パスポート			初级上19	护照							Passport
 ギター				初级上20	吉他							Guitar
-ドラーブ			初级上20	兜风，开汽车远游
-ギョーザ			初级上20	饺子
-シャワー			初级上20	淋浴
-キャンプ			初级上20	野营
-メールアドレス		初级上21	邮件地址
-ゴールデンウィーク	初级上21	黄金周
-バドミントン		初级上22	羽毛球
-ラケット			初级上22	球拍
-モーツァルト		初级上22	莫扎特
-ディズニーランド	初级上22	迪士尼乐园
-スケート			初级上23	滑冰，溜冰
-ハイキング			初级上24	郊游，远足
+ドラーブ			初级上20	兜风，开汽车远游				Drive
+ギョーザ			初级上20	饺子							-
+シャワー			初级上20	淋浴							Shower
+キャンプ			初级上20	野营							Camp
+メールアドレス		初级上21	邮件地址						Mail Address
+ゴールデンウィーク	初级上21	黄金周							Golden Week
+バドミントン		初级上22	羽毛球							Badminton
+ラケット			初级上22	球拍							Racket
+モーツァルト		初级上22	莫扎特							-
+ディズニーランド	初级上22	迪士尼乐园						-
+スケート			初级上23	滑冰，溜冰						Skate
+ハイキング			初级上24	郊游，远足						Hiking
 
 
 
