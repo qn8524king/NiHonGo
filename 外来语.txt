@@ -180,3 +180,7 @@
 テレビゲーム		初级下35	电子游戏						Television Game
 カタログ			初级下35	目录，商品目录					Catalog
 ビタミン			初级下35	维生素							Vitamin
+フライパン			初级下36	平底锅							Frying Pan
+グラウンド			初级下36	操场，运动场					Ground
+テープ				初级下36	磁带，音像带					Tape
+コスト				初级下36	成本							Cost
