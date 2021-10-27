@@ -218,3 +218,13 @@
 サイレン			初级下44	警笛，警报器					Siren
 アニメ				初级下44	动画片							Animation
 パワー				初级下44	能力，力量						Power
+アクセス			初级下45	连接，衔接						Access
+リニアモーターカー	初级下45	磁悬浮列车						Linear Motorcar
+レモン				初级下46	柠檬							Lemon
+オートバイ			初级下46	摩托车							Auto Bicycle
+インタビュー		初级下46	采访							Interview
+プラン				初级下46	计划							Plan
+ラン				初级下46	兰花
+モデル				初级下46	模特儿							Model
+スタッフ			初级下47	职员，同事						Staff
+チェックイン		初级下47	办理入住手续					Check In
